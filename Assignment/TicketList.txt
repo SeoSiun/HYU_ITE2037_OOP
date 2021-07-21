@@ -1,0 +1,90 @@
+113
+61
+Parasite/0/3/A1/1
+Parasite/0/3/D3/2
+The Flu/3/6/D2/3
+Harry Porter/6/9/D2/4
+Detective Conan/15/18/D2/5
+Detective Conan/15/18/A2/6
+Parasite/0/3/F3/11
+Ode to My Father/21/24/D4/14
+Frozen/12/15/F3/15
+Parasite/0/3/A4/19
+Parasite/0/3/A5/20
+Parasite/0/3/A6/21
+Parasite/0/3/B1/22
+Parasite/0/3/B2/23
+Parasite/0/3/B6/27
+Parasite/0/3/C1/28
+Parasite/0/3/C2/29
+Parasite/0/3/C4/31
+Parasite/0/3/C5/32
+Parasite/0/3/C6/33
+Parasite/0/3/D2/35
+Parasite/0/3/D4/36
+Parasite/0/3/E5/41
+Parasite/0/3/F1/43
+Parasite/0/3/F5/56
+The Flu/3/6/A1/60
+The Flu/3/6/A2/61
+The Flu/3/6/A3/62
+The Flu/3/6/A4/63
+The Flu/3/6/A5/64
+The Flu/3/6/A6/65
+The Flu/3/6/B1/66
+The Flu/3/6/B2/67
+The Flu/3/6/B3/68
+The Flu/3/6/B4/69
+The Flu/3/6/B5/70
+The Flu/3/6/B6/71
+The Flu/3/6/C1/72
+The Flu/3/6/C2/73
+The Flu/3/6/C3/74
+The Flu/3/6/C4/75
+The Flu/3/6/C5/76
+The Flu/3/6/C6/77
+The Flu/3/6/D1/78
+The Flu/3/6/D3/79
+The Flu/3/6/D4/80
+The Flu/3/6/D5/81
+The Flu/3/6/D6/82
+The Flu/3/6/E1/83
+The Flu/3/6/E2/84
+The Flu/3/6/E3/85
+The Flu/3/6/E4/86
+The Flu/3/6/E5/87
+The Flu/3/6/E6/88
+The Flu/3/6/F1/89
+The Flu/3/6/F2/90
+The Flu/3/6/F3/91
+The Flu/3/6/F4/92
+Parasite/0/3/A2/95
+Parasite/0/3/D6/103
+Parasite/0/3/E6/112
+5
+Harry Porter/6/9/F3/7
+La La Land/9/12/D2/8
+Parasite/0/3/F2/101
+Parasite/0/3/B4/107
+Parasite/0/3/F4/110
+11
+La La Land/9/12/F2/9
+La La Land/9/12/E4/10
+Parasite/0/3/B5/50
+Parasite/0/3/D5/51
+Parasite/0/3/E1/52
+Parasite/0/3/B3/58
+Parasite/0/3/E4/59
+The Flu/3/6/F6/96
+Parasite/0/3/F6/99
+Parasite/0/3/E2/106
+Parasite/0/3/D1/113
+1
+Parasite/0/3/E3/13
+1
+Frozen/12/15/D2/16
+2
+Parasite/0/3/C3/55
+Parasite/0/3/A3/109
+1
+The Flu/3/6/F5/111
